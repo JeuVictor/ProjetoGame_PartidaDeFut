@@ -1,0 +1,15 @@
+D:\Programação\c#\UNIDESC\28-02-2023\JogoDeFutebol\JogoDeFutebol\obj\Debug\net6.0\JogoDeFutebol.csproj.AssemblyReference.cache
+D:\Programação\c#\UNIDESC\28-02-2023\JogoDeFutebol\JogoDeFutebol\obj\Debug\net6.0\JogoDeFutebol.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\c#\UNIDESC\28-02-2023\JogoDeFutebol\JogoDeFutebol\obj\Debug\net6.0\JogoDeFutebol.AssemblyInfoInputs.cache
+D:\Programação\c#\UNIDESC\28-02-2023\JogoDeFutebol\JogoDeFutebol\obj\Debug\net6.0\JogoDeFutebol.AssemblyInfo.cs
+D:\Programação\c#\UNIDESC\28-02-2023\JogoDeFutebol\JogoDeFutebol\obj\Debug\net6.0\JogoDeFutebol.csproj.CoreCompileInputs.cache
+D:\Programação\c#\UNIDESC\28-02-2023\JogoDeFutebol\JogoDeFutebol\bin\Debug\net6.0\JogoDeFutebol.exe
+D:\Programação\c#\UNIDESC\28-02-2023\JogoDeFutebol\JogoDeFutebol\bin\Debug\net6.0\JogoDeFutebol.deps.json
+D:\Programação\c#\UNIDESC\28-02-2023\JogoDeFutebol\JogoDeFutebol\bin\Debug\net6.0\JogoDeFutebol.runtimeconfig.json
+D:\Programação\c#\UNIDESC\28-02-2023\JogoDeFutebol\JogoDeFutebol\bin\Debug\net6.0\JogoDeFutebol.dll
+D:\Programação\c#\UNIDESC\28-02-2023\JogoDeFutebol\JogoDeFutebol\bin\Debug\net6.0\JogoDeFutebol.pdb
+D:\Programação\c#\UNIDESC\28-02-2023\JogoDeFutebol\JogoDeFutebol\obj\Debug\net6.0\JogoDeFutebol.dll
+D:\Programação\c#\UNIDESC\28-02-2023\JogoDeFutebol\JogoDeFutebol\obj\Debug\net6.0\refint\JogoDeFutebol.dll
+D:\Programação\c#\UNIDESC\28-02-2023\JogoDeFutebol\JogoDeFutebol\obj\Debug\net6.0\JogoDeFutebol.pdb
+D:\Programação\c#\UNIDESC\28-02-2023\JogoDeFutebol\JogoDeFutebol\obj\Debug\net6.0\JogoDeFutebol.genruntimeconfig.cache
+D:\Programação\c#\UNIDESC\28-02-2023\JogoDeFutebol\JogoDeFutebol\obj\Debug\net6.0\ref\JogoDeFutebol.dll

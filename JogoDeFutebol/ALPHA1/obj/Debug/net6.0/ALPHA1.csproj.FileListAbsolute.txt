@@ -1,0 +1,15 @@
+D:\Programação\c#\UNIDESC\28-02-2023\JogoDeFutebol\ALPHA1\bin\Debug\net6.0\ALPHA1.exe
+D:\Programação\c#\UNIDESC\28-02-2023\JogoDeFutebol\ALPHA1\bin\Debug\net6.0\ALPHA1.deps.json
+D:\Programação\c#\UNIDESC\28-02-2023\JogoDeFutebol\ALPHA1\bin\Debug\net6.0\ALPHA1.runtimeconfig.json
+D:\Programação\c#\UNIDESC\28-02-2023\JogoDeFutebol\ALPHA1\bin\Debug\net6.0\ALPHA1.dll
+D:\Programação\c#\UNIDESC\28-02-2023\JogoDeFutebol\ALPHA1\bin\Debug\net6.0\ALPHA1.pdb
+D:\Programação\c#\UNIDESC\28-02-2023\JogoDeFutebol\ALPHA1\obj\Debug\net6.0\ALPHA1.csproj.AssemblyReference.cache
+D:\Programação\c#\UNIDESC\28-02-2023\JogoDeFutebol\ALPHA1\obj\Debug\net6.0\ALPHA1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\c#\UNIDESC\28-02-2023\JogoDeFutebol\ALPHA1\obj\Debug\net6.0\ALPHA1.AssemblyInfoInputs.cache
+D:\Programação\c#\UNIDESC\28-02-2023\JogoDeFutebol\ALPHA1\obj\Debug\net6.0\ALPHA1.AssemblyInfo.cs
+D:\Programação\c#\UNIDESC\28-02-2023\JogoDeFutebol\ALPHA1\obj\Debug\net6.0\ALPHA1.csproj.CoreCompileInputs.cache
+D:\Programação\c#\UNIDESC\28-02-2023\JogoDeFutebol\ALPHA1\obj\Debug\net6.0\ALPHA1.dll
+D:\Programação\c#\UNIDESC\28-02-2023\JogoDeFutebol\ALPHA1\obj\Debug\net6.0\refint\ALPHA1.dll
+D:\Programação\c#\UNIDESC\28-02-2023\JogoDeFutebol\ALPHA1\obj\Debug\net6.0\ALPHA1.pdb
+D:\Programação\c#\UNIDESC\28-02-2023\JogoDeFutebol\ALPHA1\obj\Debug\net6.0\ALPHA1.genruntimeconfig.cache
+D:\Programação\c#\UNIDESC\28-02-2023\JogoDeFutebol\ALPHA1\obj\Debug\net6.0\ref\ALPHA1.dll
