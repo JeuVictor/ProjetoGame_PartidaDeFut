@@ -21,7 +21,7 @@ namespace ALPHA1
         private int Score;
         public int score { get { return Score; } set { Score = value; } }
 
-        private int Energe;
+        private int Energe =10;
         public int energe { get { return Energe; } set { Energe = value; } }
         public void EnergiaInicial()
         {
